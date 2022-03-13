@@ -1,0 +1,18 @@
+{
+    "products": [
+        {
+            "id": 1, 
+            "name": "Wool Hat",
+            "desctiption": "Designed to provide warmth in cold weather",
+            "price": 1500
+        },
+
+        {
+            "id": 2, 
+            "name": "Merinno Sweater",
+            "desctiption": "Merino wool jumpers are the real all-rounders of outdoor sweaters.",
+            "price": 2999
+        }
+        
+    ]
+}
